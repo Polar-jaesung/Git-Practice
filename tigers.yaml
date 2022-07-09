@@ -5,8 +5,9 @@ manager: Brenda
 coach: Ruth
 
 members:
-- Linda
-- William
-- David
-- George
-- Tyler
+  - Linda
+  - William
+  - David
+  - George
+  - Tyler
+  - Park
