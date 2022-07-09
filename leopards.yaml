@@ -5,7 +5,8 @@ manager: Luke
 coach: Nicholas
 
 members:
-- Linda
-- William
-- David
-- Olivia
+  - Linda
+  - William
+  - David
+  - Olivia
+  - Evie
